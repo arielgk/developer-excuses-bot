@@ -1,7 +1,6 @@
 name: 'Developer Excuses Bot'
 
 on:
-  push:
   schedule:
     - cron: '*/3 * * * *'
 
